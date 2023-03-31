@@ -52,7 +52,7 @@ GIF created with **Kap**
 
 ## Notes
 
-This project helped me learn all about how to use APIs to connect my apps to the internet and give my apps more functionality
+This project helped me learn all about how to use APIs to connect my apps to the internet and give my apps more functionality.
 
 ## License
 
